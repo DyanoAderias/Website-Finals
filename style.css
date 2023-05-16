@@ -30,3 +30,10 @@ body::before {
   height: 40vh;
   object-fit: cover
 }
+
+.background{
+  background-color: #C08081;
+}
+.name{
+  background-color: #C5B358;
+}
